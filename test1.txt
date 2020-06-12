@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A2D3-34B5
+
+ Directory of C:\Users\rammohanm\Documents\Git Project
+
+06/12/2020  10:13 AM    <DIR>          .
+06/12/2020  10:13 AM    <DIR>          ..
+06/12/2020  10:13 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  314,239,152,128 bytes free
